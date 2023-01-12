@@ -3,7 +3,5 @@ Hello how are you, gentlemen?!!
 These are the new cool features
 
 These are some more new cool features
-
-new feature f1
-
 this is a change from u2
+new feature f1
